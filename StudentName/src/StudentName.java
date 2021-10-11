@@ -1,6 +1,11 @@
 public class StudentName {
 
     public static void main(String[] args) {
-        System.out.println("hello");
+        Inese();
     }
+    public static void Inese()
+    {
+        System.out.println("Inese");
+    }
+
 }
