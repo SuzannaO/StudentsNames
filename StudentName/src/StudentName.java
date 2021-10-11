@@ -1,4 +1,4 @@
-public class Student {
+public class StudentName {
 
     public static void main(String[] args) {
        toMerge();
