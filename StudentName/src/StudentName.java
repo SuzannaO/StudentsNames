@@ -1,10 +1,11 @@
 public class StudentName {
 
     public static void main(String[] args) {
-        name();
+        Inese();
     }
-    public static void name()
+    public static void Inese()
     {
-        System.out.println("My name is Susan");
+        System.out.println("Inese");
     }
+
 }
